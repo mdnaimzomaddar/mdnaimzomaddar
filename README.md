@@ -2,26 +2,16 @@
 <div align="center">
   <img src="https://naimzomaddar.netlify.app/assets/images/github%20benner.png" width="100%" alt="Header Banner" />
   
-  <br/>
+  <br/><br/>
 
-  <!-- Social Links / Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f5538c3e-bde1-4bd7-981d-724fb1aed16c" />
-  </a>
-  
-  <a href="https://leetcode.com/u/mrnaimzomaddar/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEQq5FfbzC3DUCol2Kjiz24hcA02vNqzCAcxFV0sPiA&s" width="100" height="30"/>
-  </a>
-  
-  <a href="https://codeforces.com/profile/naimzomaddar">
-    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4189e7ba-7a4f-4374-b17d-18f87910a443" />
-  </a>
+  <!-- Social Links / Badges -->  
+  <a href="https://leetcode.com/u/mrnaimzomaddar/"><img width="30" height="30" alt="LeetCode" src="https://github.com/user-attachments/assets/86e0ae63-04b0-45b6-9460-b3d331385141" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/m-naim-zomaddar/"><img width="30" height="30" alt="LinkedIn" src="https://github.com/user-attachments/assets/2281a84d-599e-40fa-99a9-33218d6c852c" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/naimzomaddar"><img width="30" height="30" alt="Codeforces" src="https://github.com/user-attachments/assets/f0984ea3-b83c-4826-a8bc-48cc633f65a3" /></a>
 </div>
 
 <br/>
 
 <!-- Technologies Section -->
-<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/882789dd-615f-4174-b6a1-6c207d48a327" />
+<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/794159a6-a69c-42ff-b4de-1299c187457b" />
  Technologies</h2>
 
 <p align="center">
@@ -49,7 +39,7 @@
 <hr/>
 
 <!-- Statistics Section -->
-<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d479650f-712f-45e8-ae60-8b8519c5c905" />
+<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e39361ee-0cfd-4136-bcac-42144e16443c" />
  Statistics</h2>
 
 <div align="center">
@@ -59,7 +49,7 @@
 <hr/>
 
 <!-- About Me Section -->
-<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b45bf75f-e956-42e7-a76c-c084ba970c94" />
+<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/41b99fe4-ec5f-45f7-ae7d-1752ae6ff397" />
   About Me</h2>
 
 <table border="0">
@@ -81,7 +71,7 @@
 <hr/>
 
 <!-- Hobbies & Goals Section -->
-<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/86c90314-7ee5-4a2f-b947-67a76e7190a2" />
+<h2 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d12a9612-81d7-42cc-be0a-c33683a3fd0a" />
  Hobbies & Goals</h2>
 
 <div align="center">
